@@ -1,8 +1,8 @@
-# {repo}
+# tiny-chess-01
 
 [![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
-[![rank](https://make.fun/badge/tiny-chess-01/{owner}/{repo}/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
-[![reward](https://make.fun/badge/tiny-chess-01/{owner}/{repo}/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/1929627285/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/1929627285/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 A 4 KB chess engine in pure Python, standard library only: a 0x88 board, negamax with alpha-beta, quiescence search with check evasions, piece-square tables, pawn-shield and endgame king terms, a transposition table, MVV-LVA plus transposition move ordering, check extensions, repetition scoring from the game history, and iterative deepening to a fixed 80,000-node budget per move, so every game replays move for move. It plays through the make.fun env over HTTP and makes no model calls.
 
